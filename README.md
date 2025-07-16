@@ -210,11 +210,6 @@ vibe_ai/
 ├── app.R                 # Main application file
 ├── ui.R                  # User interface definition
 ├── server.R              # Server logic
-├── data/                 # Data files and datasets
-├── models/               # Trained machine learning models
-├── functions/            # Helper functions and utilities
-├── www/                  # Static assets (CSS, JS, images)
-├── requirements.txt      # Required packages
 └── README.md            # Project documentation
 ```
 
@@ -237,25 +232,9 @@ Contributions are welcome! Please follow these guidelines:
 - Enhanced model interpretability features
 - Real-time data streaming capabilities
 
-## Support
 
-For questions, issues, or contributions, please:
-- Open an issue on GitHub
-- Contact the maintainer through GitHub profile
-- Check the documentation for troubleshooting guides
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- R Shiny community for excellent documentation and support
-- Contributors to the GBM and machine learning packages
-- shinyapps.io for providing reliable hosting services
 
 ---
 
-**Author**: Faruk Hasan  
 **GitHub**: [https://github.com/farukhasan](https://github.com/farukhasan)  
 **Application**: [https://farukhasan.shinyapps.io/vibe_ai/](https://farukhasan.shinyapps.io/vibe_ai/)
