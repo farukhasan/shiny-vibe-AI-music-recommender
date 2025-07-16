@@ -1,6 +1,6 @@
 # Shiny Vibe AI Music Recommender
 
-A comprehensive Shiny web application for personalized music recommendation built with R. This interactive dashboard leverages machine learning algorithms to analyze musical features and recommend tracks based on user mood preferences and listening habits.
+A Shiny web application for personalized music recommendation built with R. This interactive dashboard leverages machine learning algorithms to analyze musical features and recommend tracks based on user mood preferences and listening habits.
 
 ## Live Application
 
