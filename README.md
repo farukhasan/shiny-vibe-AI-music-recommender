@@ -11,7 +11,7 @@ The dashboard is deployed and accessible at: [https://farukhasan.shinyapps.io/vi
 The following screenshots demonstrate the key features and interface of the Vibe AI Dashboard:
 
 ### Landing Page
-![Landing Page]([https://github.com/farukhasan/shiny-vibe-AI-music-recommender/blob/main/vibe_ai1.png)
+![Landing Page](https://github.com/farukhasan/shiny-vibe-AI-music-recommender/blob/main/vibe_ai1.png)
 *Application landing page with main interface and navigation*
 
 ### Filters
